@@ -1,0 +1,43 @@
+// Misc.
+	$misc: (
+	);
+
+// Duration.
+	$duration: (
+	);
+
+// Size.
+	$size: (
+		border-radius:	4px
+	);
+
+// Font.
+	$font: (
+	);
+
+// Palette.
+	$palette: (
+		bg:				#ffffff, //main-bg , box-bg
+		fg:				#606060, //
+		fg-light:		#888888, //sub-header, 
+		fg-bold:		#5b5b5b,
+		border:			rgba(224,224,224,0.75),
+		border-bg:		rgba(224,224,224,0.15),
+		border-bg2:		rgba(224,224,224,0.35),
+
+		accent1: (
+			// bg:			#4eb980,
+			bg:			#2c3e50, //
+			fg:			rgba(255,255,255,0.8),
+			fg-light:	rgba(255,255,255,0.5),
+			fg-bold:	#ffffff
+			// fg-bold:	#000000
+		),
+
+		accent2: (
+			bg:			#34495e,
+			fg:			rgba(255,255,255,0.8),
+			fg-light:	rgba(255,255,255,0.35),
+			fg-bold:	#ffffff
+		)
+	);
